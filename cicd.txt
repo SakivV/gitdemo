@@ -1,1 +1,4 @@
-This is Terraform template
+
+=======
+This is CloudFormationTwo template
+>>>>>>> CFN temp
