@@ -1,1 +1,1 @@
-This is CloudFormation template
+This is Terraform template
